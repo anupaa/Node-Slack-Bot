@@ -1,0 +1,16 @@
+{
+  "name": "node-slack-bot",
+  "version": "1.0.0",
+  "description": "In this nodejs project, we're building a slack bot that uploads file to channels. We will everything from how to get your slack token to assigning permissions and use a node package that uses the slack API.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^4.2.0"
+  }
+}
