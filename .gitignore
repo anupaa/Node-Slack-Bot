@@ -1,0 +1,8 @@
+/node_modules
+/libevent-2.1.8-stable
+package-lock.json
+.env
+.env.local
+.env.prod
+/Data
+yarn.lock
